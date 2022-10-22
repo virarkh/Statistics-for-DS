@@ -48,7 +48,7 @@ The further away the correlation coefficient is from zero, the stronger the rela
 When exploring data, the outliers are the extreme values within the dataset. That means the outlier data points vary greatly from the expected values—either being much larger or significantly smaller.
 
 ## Handling missing value
-
+Missing Data can occur when no information is provided for one or more items or for a whole unit. Missing Data is a very big problem in a real-life scenarios. Missing Data can also refer to as NA(Not Available) values in pandas.
 
 ## Inferential Statistics - Confidence Intervals
 The confidence interval is the range of values that you expect your estimate to fall between a certain percentage of the time if you run your experiment again or re-sample the population in the same way.
